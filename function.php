@@ -1,5 +1,5 @@
 <?php
-include "rumuse.php";
+include "rumus.php";
 
 luasPersegi(20);
 
